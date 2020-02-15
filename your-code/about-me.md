@@ -1,3 +1,4 @@
 NEW BRANCH - MODIFIED TO PROVOKE A CONFLICT, FIXED AFTERWARDS ----
 
-Testing - creating conflict.
+Telma is a passionate, honest, web developer musician and financier.
+
